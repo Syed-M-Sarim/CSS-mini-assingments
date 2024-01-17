@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+}
+h1{
+    color: red;
+    background-color: palevioletred;
+}
+li{
+    background-color: lightgoldenrodyellow;
+    color: green; 
+    padding: 5px;
+  }
+#p{
+    color: yellow;
+    background-color: white;
+    font-size: 30px;
+}
