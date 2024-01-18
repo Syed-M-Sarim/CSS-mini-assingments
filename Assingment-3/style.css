@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@700&display=swap');
+h1{
+    text-align: center;
+    color: blue;
+}
+.p1{
+    font-family: 'Noto Sans';
+    font-size: large;
+}
+.p2{
+    font-family: 'Titillium Web';
+    font-size: large;
+}
+#urdu{
+    font-family: 'Noto Nastaliq Urdu';
+    font-size: large;
+}
+body{
+    background-color: grey;
+}
